@@ -1,0 +1,156 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 3.75rem;
+  line-height: 2;
+  margin: 3.125rem auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a {
+  padding: 0 15px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  position: relative;
+  padding: 50px 0 20px;
+}
+
+.BUTTON_LRM {
+   -webkit-border-radius: 16px;
+   -moz-border-radius: 16px;
+   border-radius: 16px;
+   color: #EAF6F6;
+   font-family: Montserrat;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 14px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 40px;
+   margin-bottom: 80px;
+}
+
+.BUTTON_LRM:hover {
+  background-color: #366666;
+   color: #FFFFFF;
+}
+
+.car-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-me{
+  width: 40%;
+  margin: 0 auto 0 auto;
+}
+
+.display-pic{
+  margin-top: 50px;
+}
+
+.intro {
+  width:40%;
+  margin: 0 auto 0 auto;
+}
+
+.laptop-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  padding-top: -40px;
+}
+
+.middleContainer {}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.topContainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
