@@ -120,7 +120,7 @@ a:active {
 }
 
 .intro {
-  width:40%;
+  width: 40%;
   margin: 0 auto 0 auto;
 }
 
@@ -128,7 +128,6 @@ a:active {
   width: 25%;
   float: left;
   margin-right: 30px;
-  padding-top: -40px;
 }
 
 .middleContainer {}
@@ -138,7 +137,7 @@ a:active {
 }
 
 .skill-row {
-  width: 50%;
+  width: 30%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
